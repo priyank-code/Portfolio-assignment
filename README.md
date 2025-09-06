@@ -1,12 +1,40 @@
-# React + Vite
+#  Portfolio Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive developer portfolio built with **React** (via **Vite**) and **Tailwind CSS** showcasing key sections like Hero, Skills, Portfolio, Testimonials, and Contact.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+Check out the deployed project here:  
+👉 [Portfolio Assignment on Netlify](https://priyank-assignment.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+- **Responsive design:** Optimized for mobile, tablet, and desktop.
+- **Smooth navigation:** Includes a sticky navbar and animated mobile menu.
+- **Hero Section:** Title, social icons, download button, and a striking hero image.
+- **Skills Section:** Circular progress indicators with dynamic percentages.
+- **Portfolio Gallery:** A clean grid layout highlighting your work.
+- **Testimonial & Thank You Sections:** Visually distinct with gradient and neon accents.
+- **Footer:** Logo and navigation links with accessible layout.
+
+---
+
+## 🛠️ Tech Stack
+| Technology     | Purpose                    |
+|----------------|----------------------------|
+| React (Vite)   | UI framework & build tool  |
+| Tailwind CSS   | Utility-first styling      |
+| FontAwesome    | Iconography                |
+| Vite           | Fast development build     |
+| Netlify        | Deployment platform        |
+
+---
+
+## ⚡ Setup & Usage
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/priyank-code/Portfolio-assignment.git
+   cd Portfolio-assignment
