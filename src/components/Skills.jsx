@@ -26,7 +26,7 @@ const Skills = () => {
   ];
 
   return (
-    <section className="w-full mt-16 max-w-7xl mx-auto lg:px-0 px-6">
+    <section id="skills" className="md:scroll-mt-24 scroll-mt-80 w-full mt-16 max-w-7xl mx-auto lg:px-0 px-6">
       {/* Heading */}
       <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mb-10 text-white">
         SKILLS

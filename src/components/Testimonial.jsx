@@ -3,7 +3,7 @@ import ShieldIcon from "../assets/Shield.png";
 
 const Testimonial = () => {
   return (
-    <section className="w-full text-center py-15 px-6 relative mt-15">
+    <section id="about" className="md:scroll-mt-24 scroll-mt-80 w-full text-center py-15 px-6 relative mt-15">
       {/* Gradient Background */}
       <div className="absolute inset-0 bg-gradient-to-r from-pink-500 via-red-500 to-purple-500" />
 

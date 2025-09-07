@@ -14,7 +14,7 @@ import StarImg from "../assets/Star.png";
 
 const Hero = () => {
   return (
-    <section className="w-full bg-black text-white min-h-screen flex flex-col items-center justify-center px-6">
+    <section id="home" className="md:scroll-mt-24 scroll-mt-100 w-full bg-black text-white min-h-screen flex flex-col items-center justify-center px-6">
       {/* Top: Text + Image */}
       <div className="flex flex-col lg:flex-row items-center justify-between w-full max-w-7xl mx-auto px-6 lg:pt-15 md:pt-8 lg:pb-15 md:pb-4">
         {/* Left: Text */}
